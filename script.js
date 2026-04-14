@@ -61,7 +61,7 @@ noBtn.onmouseover = () => {
 
 // Typing love message
 function typeLove() {
-  const msg = "Will you go on a cute lil ice-cream date. Just us watching the sunset while you fill the air with your nonstop talks and I listen to them quietly, capturing you smiling in my eyes and feeding you ice-cream..MISS VANDANAA??? 💖";
+  const msg = "Will you go on a cute lil ice-cream date. Just us watching the sunset while you fill the air with your nonstop talks and I listen to them quietly, capturing you smiling in my eyes and feeding you ice-cream..MISS SUPARNAAA??? 💖";
   loveText.innerHTML = ""; // reset
   let j=0;
   function t() {
